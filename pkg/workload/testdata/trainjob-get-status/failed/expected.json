@@ -1,4 +1,5 @@
 {
   "message": "Worker crashed",
-  "phase": "Failed"
+  "phase": "Failed",
+  "reason": "WorkerFailed"
 }
