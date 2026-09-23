@@ -23,7 +23,6 @@ go.work
 
 # editor and IDE paraphernalia
 .idea
-.vscode
 *.swp
 *.swo
 *~
@@ -49,3 +48,7 @@ helm/cluster-readiness-engine/charts/*.tgz
 # Build artifacts
 dist/
 .claude/worktrees/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
